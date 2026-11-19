@@ -1,13 +1,12 @@
 {
-  "version": "0.3.0",
-  "versionCode": 3,
-  "runtimeVersion": "a7f799b401b975d42f8280da824812213f47f1ce",
-  "url": "https://github.com/inigo-code/mentor-heart-releases/releases/download/v0.3.0/mentorheart-0.3.0.apk",
-  "size": 53797658,
-  "date": "2026-11-18",
+  "version": "0.4.0",
+  "versionCode": 4,
+  "runtimeVersion": "af57d6e0a699b3ce499b568b9287c05bbd390469",
+  "url": "https://github.com/inigo-code/mentor-heart-releases/releases/download/v0.4.0/mentorheart-0.4.0.apk",
+  "size": 54953406,
+  "date": "2026-11-19",
   "notes": [
-    "A fresh new look, with a kolam for each day order",
-    "A brighter calendar and a calmer calm space",
-    "Updates right in the app"
+    "A new opening: the kolam heart on the night sky",
+    "Assignments, marks, birthdays and badges, built in"
   ]
 }
