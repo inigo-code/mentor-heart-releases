@@ -1,7 +1,8 @@
 # Mentor Heart releases
 
 Android APKs of Mentor Heart, the mentoring app for BBA Shift II. Download the newest one from
-[Releases](https://github.com/inigo-code/mentor-heart-releases/releases/latest).
+[Releases](https://github.com/inigo-code/mentor-heart-releases/releases/latest), or from
+https://mh.inigo.co.in/mentorheart.apk if your network blocks GitHub downloads.
 
 The app checks `latest.json` here and offers new versions itself (Settings › Updates).
 This repo holds only the APK files and that file, no source code.
